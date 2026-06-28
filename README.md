@@ -36,3 +36,6 @@ Tech I Used :
 
 A Note of Gratitude :
 This project was completed as part of my Data Science journey at Innomatics Research Labs. Huge thanks to my mentors for the guidance and the opportunity to work on real-world sports data...!
+
+## Author :
+Rohith Sunkari
